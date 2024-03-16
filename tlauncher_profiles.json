@@ -1,0 +1,19 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "danceq",
+      "type": "ely"
+    },
+    "list": [
+      {
+        "id": 5024480,
+        "username": "danceq",
+        "displayName": "danceq",
+        "uuid": "98eb55c1-b574-46dd-914e-21d0a4d569e8",
+        "registeredAt": 1710361472,
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE3MTA1NjA0NDgsImNsaWVudF9pZCI6InRsYXVuY2hlciIsInNjb3BlIjoib2J0YWluX293bl9hY2NvdW50X2luZm8gbWluZWNyYWZ0X3NlcnZlcl9zZXNzaW9uIiwic3ViIjoiZWx5fDUwMjQ0ODAifQ.rjsciO0ZW6vkOmocQuOkZNZVHL8oWPRbi0pqwrGGoafsIVv-ajgTPwpVBrOmO8YtwaQwfU_zp-83tLJtJAWXgg",
+        "type": "ely"
+      }
+    ]
+  }
+}
